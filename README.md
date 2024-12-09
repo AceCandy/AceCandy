@@ -1,6 +1,6 @@
 <h2 align="center">有人困在雨里，有人雨中赏雨 🏝</h2>
 
-## *Is's AceCandy <image src="https://github.com/RoyRao2333/royrao2333/raw/main/assets/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966.gif" alt="GIF" width="24px" />*
+### *这是 AceCandy <image src="https://github.com/RoyRao2333/royrao2333/raw/main/assets/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966.gif" alt="GIF" width="24px" />*
 
 👨🏻‍💻 你好吖，我是一名来自中国普普通通的后端开发工程师
 
@@ -12,25 +12,7 @@
 
 🕹️ 曾经有过很多诗与远方，诗还是那些诗，远方依旧在远方
 
-<div>
-    <h3>
-        Weekly Code Stats
-    </h3>
-</div>
-<div>
-   <img src="https://github-readme-stats.jeasonlau.vercel.app/api/wakatime?username=amtoaer&hide_border=true&theme=buefy&count=5">
-</div>
-<div>
-    <h3>
-        Github Stats
-    </h3>
-</div>
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=amtoaer&show_icons=true&hide_border=true&theme=buefy">
-</div>
-
-
-
+### 不重要的信息
 <div align="center">
 
 <p>🧑🏻‍💻 A self-taught app developer</p>
@@ -41,17 +23,17 @@
 
 </div>
 
-<div align="center">
-
+<div align="left">
 <a href="https://github.com/RoyRao2333">
 <image src="https://github-readme-stats.zohan.tech/api?username=AceCandy&include_all_commits=true&count_private=true&show_icons=true&theme=buefy" height="170px" />
 </a>
-
+</div>
+<div align="right">
 <a href="https://github.com/RoyRao2333">
 <image src="https://github-readme-stats.zohan.tech/api/top-langs/?username=AceCandy&layout=compact" height="170px" />
 </a>
-
 </div>
+
 
 ## 🛠 技术栈 | Tech Stack
 
