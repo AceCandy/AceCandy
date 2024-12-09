@@ -14,26 +14,22 @@
 
 <a href="https://royrao2333.github.io/blog">🧑🏻‍💻 技术博客</a>
 
-
-
-
+<br>
+<br>
+<br>
 
 ### 不重要的信息
-<div align="left">
-<a href="#">
-<image src="https://github-readme-stats.zohan.tech/api/top-langs/?username=AceCandy&layout=compact" height="150px" />
-<image src="https://github-readme-stats.zohan.tech/api?username=AceCandy&include_all_commits=true&count_private=true&show_icons=true&theme=buefy" height="150px" />
-</a>
-</div>
 <div align="center">
-
-</div>
-<br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br><br><br>
-    
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
-[![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+    <a href="#">
+        <image src="https://github-readme-stats.zohan.tech/api/top-langs/?username=AceCandy&layout=compact" height="150px" />
+        <image src="https://github-readme-stats.zohan.tech/api?username=AceCandy&include_all_commits=true&count_private=true&show_icons=true&theme=buefy" height="150px" />
+    </a>
+    <br><br>
+    <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+    <br><br><br>
+        
+    [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
+    [![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
+    [![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
+    [![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
 </div>
