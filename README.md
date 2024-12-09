@@ -11,7 +11,7 @@
         
         🌋 曾经有过很多诗与远方，诗还是那些诗，远方依旧在远方
         
-        <a href="https://royrao2333.github.io/blog">🧑🏻‍💻 技术博客</a>
+        
     </pre>
     
     <br><br><br>
