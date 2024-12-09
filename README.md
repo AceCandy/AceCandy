@@ -1,6 +1,6 @@
 <h2 align="center">有人困在雨里，有人雨中赏雨 ⛱</h2>
 
-### *这是 AceCandy <image src="https://github.com/RoyRao2333/royrao2333/raw/main/assets/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966.gif" alt="GIF" width="24px" />*
+### 这里是 AceCandy <image src="https://github.com/RoyRao2333/royrao2333/raw/main/assets/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966.gif" alt="GIF" width="24px" />
 
 🙍 你好吖，我是一名来自中国普普通通的后端开发工程师
 
@@ -11,6 +11,10 @@
 📚 最喜欢的作者是九把刀，因为初中打开的那本「功夫」，至今让我念念不忘
 
 🌋 曾经有过很多诗与远方，诗还是那些诗，远方依旧在远方
+
+<a href="https://royrao2333.github.io/blog">🧑🏻‍💻 技术博客</a>
+
+
 
 
 
@@ -23,16 +27,13 @@
 </div>
 <div align="center">
 
-<a href="https://royrao2333.github.io/blog">🧑🏻‍💻 技术博客</a>
-
-<image src="https://user-images.githubusercontent.com/31413093/187115164-3c1e5a43-64bc-44cd-a145-593a35b53513.GIF" align="center" alt="GIF" height="100px" />
-
 </div>
-
-&nbsp;
-
-<div align="right">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">♡ GitHub Readme Stats</a>
-
+<br><br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br><br>
+    
+[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
+[![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
+[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
+[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
 </div>
