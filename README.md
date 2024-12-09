@@ -15,21 +15,13 @@
 ### 不重要的信息
 <div align="left">
 <a href="https://github.com/RoyRao2333">
+<image src="https://github-readme-stats.zohan.tech/api/top-langs/?username=AceCandy&layout=compact" height="170px" />
 <image src="https://github-readme-stats.zohan.tech/api?username=AceCandy&include_all_commits=true&count_private=true&show_icons=true&theme=buefy" height="170px" />
-<a href="https://github.com/RoyRao2333">
-<image src="https://github-readme-stats.zohan.tech/api/top-langs/?username=AceCandy&layout=compact" height="170px" />
-</a>
-</a>
-</div>
-<div align="right">
-<a href="https://github.com/RoyRao2333">
-<image src="https://github-readme-stats.zohan.tech/api/top-langs/?username=AceCandy&layout=compact" height="170px" />
 </a>
 </div>
 
 
 ## 🛠 技术栈 | Tech Stack
-
 <div >
 
 💬 <a href="https://www.swift.org/"><image src="https://img.shields.io/static/v1?label=Swift&message=HANDY&style=for-the-badge&labelColor=FFFFFF&logo=swift&color=F05138" align="center" /></a> <a href="https://www.typescriptlang.org/"><image src="https://img.shields.io/static/v1?label=TypeScript&message=HANDY&style=for-the-badge&labelColor=FFFFFF&logo=typescript&color=3178C6" align="center" /></a> <a href="https://www.python.org/"><image src="https://img.shields.io/static/v1?label=Python&message=Familiar&style=for-the-badge&labelColor=FFFFFF&logo=python&color=3776AB" align="center" /></a> <a href="https://kotlinlang.org/"><image src="https://img.shields.io/static/v1?label=Kotlin&message=Familiar&style=for-the-badge&labelColor=FFFFFF&logo=kotlin&color=7F52FF" align="center" /></a>
