@@ -1,29 +1,18 @@
-<h2 align="center">有人困在雨里，有人雨中赏雨。 🏝</h2>
+<h2 align="center">有人困在雨里，有人雨中赏雨 🏝</h2>
 
 <h2 align="center"><image src="https://github.com/RoyRao2333/royrao2333/raw/main/assets/68747470733a2f2f71706c7573706963747572652e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f364c6a6a51412f48692e676966.gif" alt="GIF" width="24px" /> Hi! This is Roy</h2>
 
-## *Hi there! 👋*
+## *Hi! This is AceCandy 👋*
 
-I'm amtoaer, a backend development engineer from China.
+👨🏻‍💻 你好吖，我是一名来自中国普普通通的后端开发工程师
 
-### About Me
+🎯 坚持健身、坚持每日多邻国、坚持星铁每日任务，没有什么为什么，就是给自己找事干
 
-👨🏻‍💻 I'm working for a startup in Beijing, China.
+🏕️ 喜欢动漫，最喜欢的三部动漫分别是「**命运石之门**」、「叛逆的鲁鲁修」、「自新世界」
 
-🎯 I'm currently learning [The Rust Programming Language](https://doc.rust-lang.org/book/).
+📚 最喜欢的作者是九把刀，因为初中打开的那本「功夫」，至今让我念念不忘
 
-🏕️ I enjoy skating, playing billiards, listening to music, and watching anime.
-
-🕹️ *Street Fighter 6* is the game I'm very passionate about.
-
-
-### Skills
-
-| Category              | Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Operating System      | ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![](https://img.shields.io/badge/Windows_11-EE0000?style=for-the-badge&logo=windows-11&logoColor=white)                                                                                                                                                                                                |
-| Programming Languages | ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)                                                                                                                                                                                                                             |
-| Development Tools     | ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white) ![](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white) ![](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white) ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
+🕹️ 曾经有过很多诗与远方，诗还是那些诗，远方依旧在远方
 
 <div>
     <h3>
