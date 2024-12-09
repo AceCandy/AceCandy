@@ -14,9 +14,9 @@
 
 ### 不重要的信息
 <div align="left">
-<a href="https://github.com/RoyRao2333">
-<image src="https://github-readme-stats.zohan.tech/api/top-langs/?username=AceCandy&layout=compact" width="350px" height="170px" />
-<image src="https://github-readme-stats.zohan.tech/api?username=AceCandy&include_all_commits=true&count_private=true&show_icons=true&theme=buefy" width="350px" height="170px" />
+<a href="#">
+<image src="https://github-readme-stats.zohan.tech/api/top-langs/?username=AceCandy&layout=compact" height="150px" />
+<image src="https://github-readme-stats.zohan.tech/api?username=AceCandy&include_all_commits=true&count_private=true&show_icons=true&theme=buefy" height="150px" />
 </a>
 </div>
 
