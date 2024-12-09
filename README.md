@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
     <h2>有人困在雨里，有人雨中赏雨 ⛱</h2>
     <pre>
         🙍 你好吖，我是AceCandy，一名来自中国普普通通的后端开发工程师
