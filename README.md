@@ -13,19 +13,12 @@
 🕹️ 曾经有过很多诗与远方，诗还是那些诗，远方依旧在远方
 
 ### 不重要的信息
-<div align="center">
-
-<p>🧑🏻‍💻 A self-taught app developer</p>
-
-<p>🐼 Currently working in Chengdu, China</p>
-
-<p>💵 Looking forward to the early realization of wealth and freedom</p>
-
-</div>
-
 <div align="left">
 <a href="https://github.com/RoyRao2333">
 <image src="https://github-readme-stats.zohan.tech/api?username=AceCandy&include_all_commits=true&count_private=true&show_icons=true&theme=buefy" height="170px" />
+<a href="https://github.com/RoyRao2333">
+<image src="https://github-readme-stats.zohan.tech/api/top-langs/?username=AceCandy&layout=compact" height="170px" />
+</a>
 </a>
 </div>
 <div align="right">
